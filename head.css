@@ -1,0 +1,135 @@
+/*! CSS Used from: https://www.jumia.com.ng/assets_he/css/main.c9c3e8fe.css */
+*,*::before,*::after{box-sizing:border-box;}
+.sug{border-radius:0 0 4px 4px;}
+.btn,.btn._def:hover::after,.btn._def:focus::after,.find,.dpdw .trig,.dpdw .inbox{border-radius:4px;}
+button,.btn,.find input{border:0;}
+input{border-radius:0;}
+#jm .-hr-bb{border-bottom:2px solid #ededed;}
+.btn,.find input{outline:0;}
+#jm .-hr[data-mid-txt]::after{content:attr(data-mid-txt);}
+.find{border:1px solid #c7c7cd;}
+.btn{color:#f68b1e;}
+.btn._prim{background-color:#f68b1e;}
+.btn._def:hover::after,.btn._def:focus::after{background-color:rgba(246,139,30,0.15);}
+.btn._prim:hover{background-color:#e4811c;}
+.btn._prim::after,.dpdw .tgl{opacity:0;}
+.btn._prim:focus:active::after{opacity:.2;}
+.btn._prim,.btn:disabled,.btn:disabled:hover{color:#fff;}
+#jm .-hr[data-mid-txt]::after,.header .wrapper,.dpdw .inbox,.sug{background-color:#fff;}
+#jm .-hov-bg-gy05:hover,#jm .-hov-bg-gy05:focus{background-color:#f5f5f5;}
+#jm .-hr::before,.dpdw .tgl:focus+.trig,.dpdw .tgl:checked+.trig{background-color:#ededed;}
+.btn._def:disabled{color:#c7c7cd;}
+.btn:disabled,.btn:disabled:hover{background-color:#c7c7cd;}
+.find input+.rst .ic{fill:#c7c7cd;}
+#jm .-hr[data-mid-txt]::after{color:#75757a;}
+.find>.ic{fill:#75757a;}
+.dpdw .tgl:focus+.trig,.dpdw .tgl:checked+.trig,#jm .-gy8{color:#282828;}
+.ic,.dpdw .tgl:focus+.trig svg,.dpdw .tgl:checked+.trig svg{fill:#282828;}
+button,a,.btn,.btn._def:disabled{background-color:rgba(0,0,0,0);}
+#jm .-hov-or5:hover,#jm .-hov-or5:focus{color:#f68b1e;}
+#jm .-hov-or5:hover .ic,#jm .-hov-or5:focus .ic{fill:#f68b1e;}
+header,section{display:block;}
+.find input+.rst,.sug{display:none;}
+a{display:inline-block;}
+button,input{overflow:visible;}
+.find input,.btn._prim,.dpdw .inbox,.sug{overflow:hidden;}
+.row,#jm,.find,#jm .-df{display:flex;}
+#jm{flex:1 0 auto;}
+.row,.col{flex:0 1 auto;}
+.cola,.find input{flex-grow:1;}
+.find>.ic,#jm .-fsh0{flex-shrink:0;}
+#jm .-j-bet{justify-content:space-between;}
+.find,#jm .-i-ctr{align-items:center;}
+#jm{flex-direction:column;}
+.row{flex-wrap:wrap;}
+#jm .-fw-nw{flex-wrap:nowrap;}
+#jm .-hr,.btn._def,.btn._prim,.find,.dpdw{position:relative;}
+#jm .-hr::before,#jm .-hr::after,.btn._def:hover::after,.btn._def:focus::after,.btn._prim::after,.dpdw .tgl,.dpdw .box,.sug{position:absolute;}
+.header{position:-webkit-sticky;position:sticky;}
+.btn._def:hover::after,.btn._def:focus::after{left:-8px;}
+#jm .-hr::before,.btn._prim::after{left:0;}
+.btn._def:hover::after,.btn._def:focus::after{right:-8px;}
+#jm .-hr::before,.sug{right:0;}
+.btn._def:hover::after,.btn._def:focus::after{top:-8px;}
+#jm .-hr::before,#jm .-hr[data-mid-txt]::after,.btn._prim::after,.header{top:0;}
+.dpdw .box{top:100%;}
+.btn._def:hover::after,.btn._def:focus::after{bottom:-8px;}
+#jm .-hr[data-mid-txt]::after,.dpdw._pcent .box,.dpdw._pcent .box::before{left:50%;}
+#jm .-hr::before,.btn._def:hover::after,.btn._def:focus::after,.btn._prim::after{content:'';}
+.btn._prim:disabled,.find input{box-shadow:none;}
+.sug{box-shadow:0 4px 8px 0 rgba(0,0,0,0.15);}
+.btn._prim{box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);}
+.btn._prim:focus{box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),inset 0 0 0 2px #d56e0e;}
+.dpdw .inbox{box-shadow:0 0 10px 0 rgba(0,0,0,0.15);}
+.header .wrapper{box-shadow:0 4px 4px -4px rgba(0,0,0,0.12);}
+.header{height:72px;}
+.dpdw .box{min-width:206px;}
+.row,.btn._prim::after,.find,.dpdw .box,.sug,#jm .-fw{width:100%;}
+.btn._prim::after,.find input{height:100%;}
+.cola{max-width:100%;}
+.row{max-width:1184px;}
+#jm{min-height:100vh;}
+#jm .-hr::before{height:1px;}
+#jm ._hx2.-hr:before,#jm .-hr[data-mid-txt]:before{height:2px;}
+[type="checkbox"],.btn._def{padding:0;}
+.dpdw .trig,#jm .-pas{padding:8px;}
+.btn,#jm .-pam{padding:16px;}
+.header .wrapper{padding-top:16px;}
+#jm .-phn{padding-right:0;}
+#jm .-phs,.col3,.cola,.col{padding-right:8px;}
+#jm .-hr[data-mid-txt]::after,.btn._md,#jm .-phm{padding-right:16px;}
+.header .wrapper{padding-bottom:16px;}
+#jm .-phn{padding-left:0;}
+#jm .-phs,.col3,.cola,.col{padding-left:8px;}
+#jm .-hr[data-mid-txt]::after,.btn._md,#jm .-phm{padding-left:16px;}
+button,input{margin:0;}
+#jm .-mtl{margin-top:24px;}
+.row,#jm .-mra{margin-right:auto;}
+.find>.ic,.find input,.find input+.rst,#jm .-mrs{margin-right:8px;}
+#jm .-mrm{margin-right:16px;}
+#jm .-mbm{margin-bottom:16px;}
+.row{margin-left:auto;}
+.find input+.rst{margin-left:4px;}
+.find>.ic,#jm .-mls{margin-left:8px;}
+.btn._md,#jm .-pv12{padding-top:12px;}
+.btn._md,#jm .-pv12{padding-bottom:12px;}
+#jm .-hr[data-mid-txt]::after{transform:translate(-50%, -50%);}
+.dpdw._pcent .box{transform:translate3d(-50%, 0, 0);}
+.dpdw .tgl:checked+.trig svg:last-of-type{transform:rotate(180deg);}
+.btn._prim{transform:translate3d(0, 0, 0);}
+.btn._prim:focus:active::after{transform:scale(0, 0);}
+.btn._prim::after{transform:scale(10, 10);}
+.btn._prim::after{transition:transform 1s, opacity 1s;}
+.btn._prim:focus:active::after{transition:0s;}
+button,.btn{font-family:Roboto,-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif;}
+#jm .-hr[data-mid-txt]::after,.btn,#jm .-hov-m:hover,#jm .-m{font-weight:500;}
+#jm .-r{font-weight:400;}
+#jm .-hr[data-mid-txt]::after,.btn{text-transform:uppercase;}
+button{text-transform:none;}
+.btn,#jm .-tac{text-align:center;}
+a{text-decoration:none;}
+.find input{white-space:nowrap;}
+.find input{text-overflow:ellipsis;}
+.btn{line-height:1rem;}
+.find input+.rst,#jm .-fs0{font-size:0;}
+#jm .-hr[data-mid-txt]::after{font-size:.75rem;}
+.btn{font-size:.875rem;}
+.find input,#jm .-fs16{font-size:1rem;}
+.btn:disabled,.btn._prim::after{pointer-events:none;}
+.dpdw .trig{-moz-user-select:none;user-select:none;}
+.btn,.dpdw .trig{cursor:pointer;}
+.header{z-index:70;}
+.dpdw .tgl{z-index:-1;}
+button{padding:0;}
+a{color:inherit;}
+a{-webkit-text-decoration-skip:objects;}
+button{-webkit-appearance:button;}
+button::-moz-focus-inner{border-style:none;padding:0;}
+.col3{flex-basis:18.75%;max-width:18.75%;min-width:18.75%;width:18.75%;}
+.btn._prim::after{background:radial-gradient(circle, #fff 10%, transparent 10%) center;}
+.find input::placeholder{color:#75757a;}
+.find input::-ms-clear{display:none;}
+.sug{top:calc(100% + 1px);}
+@media (max-width: 1200px){
+.row{max-width:950px;}
+}
